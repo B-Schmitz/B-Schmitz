@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hello World, I'm Bernardo Schmitz!
 
-<!--
-**B-Schmitz/B-Schmitz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/b-schmitz)](https://github.com/B-Schmitz)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bernardo-ssantos/)](https://www.linkedin.com/in/bernardo-ssantos/)
 
-Here are some ideas to get you started:
+## About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hi, my name is Bernardo, I'm 23 years old and I'm a full stack programmer.
+
+👨‍💻 My main technologies are **Vue.js, Nuxt, Node.js, Adonis, MySQL and Typescript**.
+
+## Projects
+
+- 🍅 [Pomodoro](https://pomodoroweb.netlify.app/)  - A simple pomodoro web application
