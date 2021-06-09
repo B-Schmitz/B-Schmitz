@@ -5,7 +5,7 @@
 
 ## About me
 
-Hi, my name is Bernardo, I'm 23 years old and I will be a full stack programmer.
+Hi, my name is Bernardo, I'm 24 years old and I will be a full stack programmer.
 
 👨‍💻 My main technologies are **Vue.js, Nuxt, Node.js, Adonis, MySQL and Typescript**.
 
