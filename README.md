@@ -27,4 +27,5 @@ Nesse Git você vai encontrar alguns projetos pessoais e trabalhos da faculdade,
 
 ## Projetos
 
-- 🍅 [Pomodoro](https://pomodoroweb.netlify.app/)  - Uma simples aplicação de um pomodoro em JS.
+Você pode conhecer mais do meu portfólio, visitando meu site:
+- [Bedev](https://bedev.xyz/)
