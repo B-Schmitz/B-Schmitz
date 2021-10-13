@@ -8,7 +8,7 @@
 Me chamo Bernardo, sou formado em Ciência da Computação pela [Unesc](https://www.linkedin.com/in/unesc/), tenho 24 anos e trabalho como desenvolvedor frontend na [Useall Software](https://www.linkedin.com/company/useall-software-ltda/?originalSubdomain=br).
 
 Nesse Git você vai encontrar alguns projetos pessoais e trabalhos da faculdade, sinta-se livre para explorar e modificar.
-[Gitlab](https://gitlab.com/BernardoS)
+Acesse também: [Gitlab](https://gitlab.com/BernardoS)
 
 ## Principais Tecnologias
 
