@@ -4,8 +4,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bernardo-ssantos/)](https://www.linkedin.com/in/bernardo-ssantos/)
 [![GitLab Badge](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white&link=https://gitlab.com/BernardoS/)](https://gitlab.com/BernardoS/)
 ## Sobre mim
-
-<p>Me chamo Bernardo, sou formado em Ciência da Computação pela <a href="https://www.linkedin.com/in/unesc/" /> Unesc, tenho 24 anos e trabalho como desenvolvedor frontend na [Useall Software](https://www.linkedin.com/company/useall-software-ltda/?originalSubdomain=br).</p>
+<p>Me chamo Bernardo, sou formado em Ciência da Computação pela <a href="https://www.linkedin.com/in/unesc/">Unesc</a>, tenho 24 anos e trabalho como desenvolvedor frontend na  <a href="https://www.linkedin.com/company/useall-software-ltda">Useal Software</a>.</p>
 
 <p>Nesse Git você vai encontrar alguns projetos pessoais e trabalhos da faculdade, sinta-se livre para explorar e modificar.</p>   
 
