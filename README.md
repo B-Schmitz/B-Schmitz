@@ -5,7 +5,7 @@
 [![GitLab Badge](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white&link=https://gitlab.com/BernardoS/)](https://gitlab.com/BernardoS/)
 ## Sobre mim
 
-<p>Me chamo Bernardo, sou formado em Ciência da Computação pela [Unesc](https://www.linkedin.com/in/unesc/), tenho 24 anos e trabalho como desenvolvedor frontend na [Useall Software](https://www.linkedin.com/company/useall-software-ltda/?originalSubdomain=br).</p>
+<p>Me chamo Bernardo, sou formado em Ciência da Computação pela <a href="https://www.linkedin.com/in/unesc/" /> Unesc, tenho 24 anos e trabalho como desenvolvedor frontend na [Useall Software](https://www.linkedin.com/company/useall-software-ltda/?originalSubdomain=br).</p>
 
 <p>Nesse Git você vai encontrar alguns projetos pessoais e trabalhos da faculdade, sinta-se livre para explorar e modificar.</p>   
 
