@@ -13,7 +13,11 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=b-schmitz&show_icons=true&theme=dark)
 
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 <h3>Projetos</h3>
 
 Você pode conhecer mais do meu portfólio, visitando meu site/blog:
 - [Bedev](https://bedev.xyz/)
+
