@@ -13,7 +13,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=b-schmitz&show_icons=true&theme=dark)
 
-<h3>últimos Posts do Blog</h3>
+<h3>Últimos posts do blog</h3>
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
