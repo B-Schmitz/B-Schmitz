@@ -17,6 +17,9 @@
 ### 📕 Últimos Posts do Blog
 
 <!-- BLOG:START -->
+- [Como usar o bracket pair colorization nativo no VS Code](https://bedev.xyz/blog/index.php/2021/09/29/como-usar-o-bracket-pair-colorization-nativo-no-vs-code/)
+- [5 extensões para aumentar a produtividade no VS Code](https://bedev.xyz/blog/index.php/2021/08/28/5-extensoes-para-aumentar-a-produtividade-no-vs-code/)
+- [Como ativar o dark mode no DevTools do Chrome](https://bedev.xyz/blog/index.php/2021/08/26/como-ativar-dark-mode-no-devtools-do-chrome/)
 <!-- BLOG:END -->
 
 ### Projetos
