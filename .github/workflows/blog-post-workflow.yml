@@ -2,7 +2,7 @@ name: Latest blog post workflow
 on:
   push:
   schedule:
-    - cron: '0 0 * * *'
+    - cron: '0 * * * *'
 
 jobs:
   update-readme-with-blog:
