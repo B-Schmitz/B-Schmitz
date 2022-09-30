@@ -1,7 +1,7 @@
 # Olá Mundo!
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/b-schmitz)](https://github.com/B-Schmitz)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bernardo-ssantos/)](https://www.linkedin.com/in/bernardo-ssantos/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bernardo-ssantos/)](https://www.linkedin.com/in/bernardo-ssantos/)
 [![GitLab Badge](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white&link=https://gitlab.com/BernardoS/)](https://gitlab.com/BernardoS/)
 ### Sobre mim
 <p>Me chamo Bernardo, sou formado em Ciência da Computação pela <a href="https://www.linkedin.com/in/unesc/">Unesc</a>, tenho 25 anos e trabalho como desenvolvedor frontend e mobile (React Native).</p>
