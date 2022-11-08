@@ -14,4 +14,4 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=b-schmitz&show_icons=true&theme=dark&custom_title=Estatísticas_do_meu_Git)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=b-schmitz&layout=compact&theme=dark&hide=java&custom_title=Linguagens_mais_usadas)](https://github.com/anuraghazra/github-readme-stats)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bschmitz&layout=compact&theme=dark&custom_title=Tempo_codando_essa_ semana)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bschmitz&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
