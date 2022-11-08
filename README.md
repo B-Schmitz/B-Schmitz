@@ -14,5 +14,5 @@
 </p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=b-schmitz&show_icons=true&theme=dark) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=b-schmitz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=b-schmitz&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bschmitz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
