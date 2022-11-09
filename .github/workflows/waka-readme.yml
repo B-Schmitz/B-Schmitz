@@ -13,7 +13,6 @@ jobs:
     steps:
       - uses: anmol098/waka-readme-stats@master
         with:
-          comment_tag_name: WAKA
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SHOW_OS: "True"
           SHOW_PROJECTS: "True"
