@@ -13,6 +13,7 @@
 </p>
 
 <!--START_SECTION:Waka Readme-->
+
 <!--END_SECTION:Waka Readme-->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=b-schmitz&show_icons=true&theme=dark&custom_title=Estatísticas%20do%20meu%20Git)
