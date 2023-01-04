@@ -29,6 +29,3 @@ Pug              1 hr 37 mins    ▒░░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=b-schmitz&show_icons=true&theme=dark&custom_title=Estatísticas%20do%20meu%20Git)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=b-schmitz&layout=compact&theme=dark&hide=java&custom_title=Linguagens%20mais%20usadas)](https://github.com/anuraghazra/github-readme-stats)
