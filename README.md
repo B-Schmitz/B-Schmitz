@@ -30,4 +30,4 @@ JSON             2 hrs 53 mins   ▒░░░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&author=Benjamin_Disraeli&quote=A_vida_é_curta_demais_para_ser_pequena)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&author=Benjamin_Disraeli&quote=Avidaécurtademaisparaserpequena)](https://github.com/piyushsuthar/github-readme-quotes)
