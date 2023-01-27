@@ -30,4 +30,4 @@ JSON             2 hrs 53 mins   ▒░░░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=A vida é muito curta para ser pequena&author=Benjamin Disraeli)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal?theme=dark?quote=A vida é muito curta para ser pequena?author=Benjamin Disraeli)](https://github.com/piyushsuthar/github-readme-quotes)
