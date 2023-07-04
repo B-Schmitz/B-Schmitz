@@ -1,18 +1,17 @@
-# Olá Mundo!
-
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bernardo-ssantos/)](https://www.linkedin.com/in/bernardo-ssantos/)
 [![GitLab Badge](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white&link=https://gitlab.com/BernardoS/)](https://gitlab.com/BernardoS/)
 ![](https://komarev.com/ghpvc/?username=B-Schmitz&style=for-the-badge&label=Visitantes)
-### Sobre mim
-<p>Me chamo Bernardo, sou formado em Ciência da Computação pela <a href="https://www.linkedin.com/in/unesc/">Unesc</a>, tenho 25 anos e trabalho como desenvolvedor frontend e mobile (React Native).</p>
 
-<p>Nesse Git você vai encontrar alguns projetos pessoais e trabalhos da faculdade, sinta-se livre para explorar e modificar.</p>  
- 
-### 🚀 Principais tecnologias:
+# 👨🏻 Sobre
+Olá Mundo! <br><br>Me chamo Bernardo, sou formado em Ciência da Computação, tenho 26 anos e trabalho como desenvolvedor frontend e mobile.<br><br>Nesse Git você vai encontrar alguns projetos pessoais e trabalhos da faculdade, sinta-se livre para explorar e modificar.
 
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"    alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a><a href="https://reactnative.dev/" target="_blank"> <img src="https://svgur.com/i/fnx.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/512px-Typescript_logo_2020.svg.png?20210506173343" alt="typescript" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/1280px-Nextjs-logo.svg.png" alt="next js" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png" alt="next js" width="40" height="40"/> </a> <a href="https://mui.com/pt" target="_blank"> <img src="https://v4.material-ui.com/static/logo.png" alt="MUI" width="40" height="40"/> </a>
-</p>
-
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=B-Schmitz&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=B-Schmitz&theme=dracula&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=B-Schmitz&theme=dracula&hide=java_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
+![](https://github-profile-trophy.vercel.app/?username=B-Schmitz&theme=dracula&no-frame=false&no-bg=true&margin-w=4)<br/>
 <!--START_SECTION:waka-->
 
 ```txt
@@ -26,7 +25,5 @@ JSON             19 hrs 49 mins  ▒░░░░░░░░░░░░░░�
 Markdown         18 hrs 11 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.77 %
 JavaScript       11 hrs 23 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 %
 ```
-
 <!--END_SECTION:waka-->
-
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&author=Benjamin%20Disraeli&quote=A%20vida%20é%20curta%20demais%20para%20ser%20pequena.)](https://github.com/piyushsuthar/github-readme-quotes)
