@@ -15,15 +15,16 @@ Olá Mundo! <br><br>Me chamo Bernardo, sou formado em Ciência da Computação, 
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 November 2022 - To: 02 July 2023
+From: 04 June 2023 - To: 04 July 2023
 
-Total Time: 1,028 hrs 11 mins
+Total Time: 142 hrs 52 mins
 
-TypeScript       883 hrs 24 mins █████████████████████▒░░░   85.92 %
-SCSS             59 hrs 44 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.81 %
-JSON             19 hrs 49 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.93 %
-Markdown         18 hrs 11 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.77 %
-JavaScript       11 hrs 23 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 %
+TypeScript     131 hrs 1 min   🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜   91.70 %
+SCSS           7 hrs 25 mins   🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   05.20 %
+Markdown       2 hrs 8 mins    🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   01.50 %
+JSON           1 hr 34 mins    🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   01.11 %
+JavaScript     20 mins         ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   00.24 %
 ```
+
 <!--END_SECTION:waka-->
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&author=Benjamin%20Disraeli&quote=A%20vida%20é%20curta%20demais%20para%20ser%20pequena.)](https://github.com/piyushsuthar/github-readme-quotes)
