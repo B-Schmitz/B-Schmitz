@@ -11,15 +11,15 @@ Olá Mundo! <br><br>Me chamo Bernardo, sou formado em Ciência da Computação, 
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 November 2023 - To: 23 December 2023
+From: 24 November 2023 - To: 24 December 2023
 
-Total Time: 120 hrs 4 mins
+Total Time: 113 hrs 34 mins
 
-TypeScript     109 hrs 19 mins 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜   91.04 %
-Markdown       2 hrs 17 mins   🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   01.91 %
-HTTP Request   2 hrs 1 min     🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   01.69 %
-YAML           1 hr 37 mins    🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   01.36 %
-SCSS           1 hr 27 mins    🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   01.21 %
+TypeScript     103 hrs 2 mins  🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟨⬜⬜   90.72 %
+Markdown       2 hrs 15 mins   🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   01.99 %
+HTTP Request   2 hrs 1 min     🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   01.78 %
+YAML           1 hr 37 mins    🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   01.43 %
+SCSS           1 hr 23 mins    🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   01.22 %
 ```
 
 <!--END_SECTION:waka-->
