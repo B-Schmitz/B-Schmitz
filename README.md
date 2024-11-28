@@ -11,9 +11,9 @@ Olá Mundo! <br><br>Me chamo Bernardo, sou formado em Ciência da Computação, 
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 October 2024 - To: 25 November 2024
+From: 27 October 2024 - To: 26 November 2024
 
-Total Time: 92 hrs 14 mins
+Total Time: 92 hrs 15 mins
 
 TypeScript          84 hrs 40 mins  🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜   91.79 %
 SQL                 2 hrs 54 mins   🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   03.16 %
