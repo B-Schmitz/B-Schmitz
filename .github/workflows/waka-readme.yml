@@ -8,7 +8,7 @@ on:
 
 jobs:
   update-readme:
-    name: WakaReadme DevMetrics
+    name: Métricas de Desenvolvimento WakaReadme
     runs-on: ubuntu-latest
     steps:
       - uses: athul/waka-readme@master
@@ -19,3 +19,8 @@ jobs:
           TIME_RANGE: last_30_days
           SHOW_TIME: true
           SHOW_MASKED_TIME: true
+      - name: Traduzir saída para PT-BR
+        run: |
+          sed -i 's/From:/De:/' README.md
+          sed -i 's/To:/Até:/' README.md
+          sed -i 's/Total Time:/Tempo Total:/' README.md
