@@ -4,6 +4,7 @@
 
 # 👨🏻 Sobre
 Sou formado em Ciência da Computação desde 2020 e atualmente estou cursando Pós-Graduação em Desenvolvimento Fullstack de Sistemas Modernos para Nuvem (Cloud Native). Trabalho como desenvolvedor full stack há 3 anos, onde atuo na criação de soluções eficientes e escaláveis, trabalhando principalmente com Node JS, Typescript e Next JS.
+
 Neste Git, você encontrará tanto projetos pessoais quanto trabalhos acadêmicos. Sinta-se à vontade para explorar, contribuir ou modificar! 🚀
 
 # 💻 Principais tecnologias em que trabalho:
