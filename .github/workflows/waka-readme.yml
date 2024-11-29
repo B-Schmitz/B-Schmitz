@@ -3,7 +3,6 @@ name: Waka Readme
 on:
   workflow_dispatch:
   schedule:
-    # Runs at 12am UTC
     - cron: '0 0 * * *'
 
 jobs:
@@ -11,6 +10,11 @@ jobs:
     name: Métricas de Desenvolvimento WakaReadme
     runs-on: ubuntu-latest
     steps:
+      # Checkout do repositório para garantir que o README.md existe
+      - name: Checkout do código
+        uses: actions/checkout@v3
+
+      # Atualizar o README.md com WakaReadme
       - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
@@ -19,6 +23,12 @@ jobs:
           TIME_RANGE: last_30_days
           SHOW_TIME: true
           SHOW_MASKED_TIME: true
+
+      # Verificar se o arquivo README.md está no diretório
+      - name: Verificar arquivos no diretório
+        run: ls -la
+
+      # Traduzir o conteúdo do README.md para PT-BR
       - name: Traduzir saída para PT-BR
         run: |
           sed -i 's/From:/De:/' README.md
