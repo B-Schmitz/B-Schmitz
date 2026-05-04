@@ -32,15 +32,15 @@ Neste Git, você encontrará tanto projetos pessoais quanto trabalhos acadêmico
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 April 2026 - To: 02 May 2026
+From: 03 April 2026 - To: 03 May 2026
 
-Total Time: 106 hrs 2 mins
+Total Time: 100 hrs 2 mins
 
-TypeScript       90 hrs                🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜   84.88 %
-SQL              7 hrs 47 mins         🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   07.35 %
-Markdown         5 hrs 48 mins         🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   05.47 %
-SCSS             1 hr 39 mins          🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   01.56 %
-HTML             18 mins               ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   00.28 %
+TypeScript       85 hrs 1 min          🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜   84.99 %
+SQL              7 hrs 31 mins         🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   07.53 %
+Markdown         5 hrs 46 mins         🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   05.78 %
+SCSS             56 mins               ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   00.94 %
+HTML             18 mins               ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   00.30 %
 ```
 
 <!--END_SECTION:waka-->
