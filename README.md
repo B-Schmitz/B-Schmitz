@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=B-Schmitz&style=for-the-badge&label=Visitantes)
 
 # 👨🏻 Sobre
-Sou formado em Ciência da Computação e pós-graduado em Desenvolvimento Fullstack de Sistemas Modernos para Nuvem (Cloud Native). Tenho 4 anos de experiência no mercado, e atuo como desenvolvedor full stack, trabalhando principalmente com Node JS, Typescript e Next JS.
+Sou formado em Ciência da Computação e pós-graduado em Desenvolvimento Fullstack de Sistemas Modernos para Nuvem (Cloud Native). Tenho 5 anos de experiência no mercado, e atuo como desenvolvedor full stack, trabalhando principalmente com Node JS, Typescript e Next JS.
 
 Neste Git, você encontrará tanto projetos pessoais quanto trabalhos acadêmicos. Sinta-se à vontade para explorar, contribuir ou modificar! 🚀
 
