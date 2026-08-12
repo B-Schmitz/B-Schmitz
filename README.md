@@ -32,7 +32,7 @@ Neste Git, você encontrará tanto projetos pessoais quanto trabalhos acadêmico
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 July 2026 - To: 09 August 2026
+From: 11 July 2026 - To: 10 August 2026
 
 Total Time: 113 hrs 26 mins
 
